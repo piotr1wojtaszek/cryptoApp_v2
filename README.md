@@ -38,11 +38,11 @@ CryptoApp requires the following system requirements:
    Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/piotr1wojtaszek/CryptoApp.git
-   cd CryptoApp
+   git clone https://github.com/piotr1wojtaszek/CryptoApp_v2.git
+   cd CryptoApp_2
 
    or download through the browser:
-   https://github.com/piotr1wojtaszek/cryptoApp
+   https://github.com/piotr1wojtaszek/cryptoApp_2
    
    set the properties for email in application.properties, i.e. host, email, password.
 
